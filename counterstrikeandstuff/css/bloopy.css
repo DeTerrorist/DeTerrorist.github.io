@@ -1,0 +1,97 @@
+/*
+h3 {
+  color: cyan;
+}
+
+#class {
+  color: magenta;
+}
+
+.two-headers {
+  background-color: yellow
+}
+
+fieldset p {
+  background-color: purple;
+  color: green;
+
+}
+
+fieldset legend h2 {
+  background-color: blue;
+}
+
+p, a, h1, h2 {
+  background-color: red;
+}
+
+legend + h3 {
+  background-color: green;
+  color: white;
+}
+
+h1 ~ p {
+  background-color: green;
+}
+
+/*a:visited {
+  background-color: red;
+}
+
+a:link {
+  background-color: blue;
+}
+
+a:hover {
+  background-color: green;
+}
+h3:hover {
+  background-color: white;
+}
+li:nth-child(3):hover {
+  background-color: black;
+}
+li:nth-child(even) {
+  background-color: red;
+}
+*/
+body {
+  width: 85%
+  margin: auto;
+}
+
+.submit {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.submit:hover {
+  background-color: white;
+  color: green;
+}
+
+a {
+  position: relative;
+  top:50px;
+  margin-bottom: 50px;
+  text-decoration: none;
+}
+
+h1, p {
+    text-align: center;
+}
+fieldset div {
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+fieldset div input {
+  margin-left: 20px;
+
+}
+
+fieldset {
+  margin-bottom: 40px;
+}
